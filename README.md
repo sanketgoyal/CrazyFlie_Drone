@@ -1,7 +1,14 @@
 # CrazyFlie_Drone
 
-## Setup and a few lines along with the link where we did it from .
-The link is detailed and gives us a give idea.
-2. We need to give the link for ROS. 
-3. This is a test step
+Jan 28, 2020 - Feb 4th, 2020
+
+## Assembling the Drone
+
+The steps to assemble the drone were followed through the given link.
+https://www.bitcraze.io/getting-started-with-the-crazyflie-2-0/
+
+One important thing to be kept in mind is the differentiation between the CW and CCW propellers. The propeller with the marking of A are attached on the side of the base with the marking M2 and M4 and simillarly marking B on M1 and M3. Note: All the four propellers are to be attached such that the markings A and B are facing you.
+
+### Testing
+Switch on the power and all the propellers will spin in a sequence, completing the power on self-test. The link has a good description to understand the LED lights.
 
