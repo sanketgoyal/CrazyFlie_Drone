@@ -27,7 +27,10 @@ Link: https://github.com/bitcraze/crazyflie-lib-python#setting-udev-permissions
 ## Mobile App and CFclient
 
 The crazyflie app can be used to control the drone. 
-![](Images:Videos/Video1.mp4)
+
+<img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/Video1.mp4" width="300">
+
+
 To install the cfclient the link given below was used. It was pretty easy without any error or confusion. 
 Link: https://github.com/bitcraze/crazyflie-clients-python
 
