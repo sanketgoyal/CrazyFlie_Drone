@@ -11,6 +11,8 @@ One important thing to be kept in mind is the differentiation between the CW and
 
 ![](/Images:Videos/CrazyFlie_motors.jpeg | width=100px)
 
+<img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/Assembled%20Drone.jpeg" width="48">
+
 ### Testing
 Switch on the power and all the propellers will spin in a sequence, completing the power on self-test. The link has a good description to understand the LED lights.
 
