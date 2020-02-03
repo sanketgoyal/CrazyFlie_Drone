@@ -9,7 +9,7 @@ https://www.bitcraze.io/getting-started-with-the-crazyflie-2-0/
 
 One important thing to be kept in mind is the differentiation between the CW and CCW propellers. The propeller with the marking of A are attached on the side of the base with the marking M2 and M4 and simillarly marking B on M1 and M3. Note: All the four propellers are to be attached such that the markings A and B are facing you.
 
-![]Images:Videos/Assembled Drone.jpeg
+![]https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/CrazyFlie_motors.jpeg
 
 ### Testing
 Switch on the power and all the propellers will spin in a sequence, completing the power on self-test. The link has a good description to understand the LED lights.
