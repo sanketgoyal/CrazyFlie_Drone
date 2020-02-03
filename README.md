@@ -9,7 +9,7 @@ https://www.bitcraze.io/getting-started-with-the-crazyflie-2-0/
 
 One important thing to be kept in mind is the differentiation between the CW and CCW propellers. The propeller with the marking of A are attached on the side of the base with the marking M2 and M4 and simillarly marking B on M1 and M3. Note: All the four propellers are to be attached such that the markings A and B are facing you.
 
-<img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/CrazyFlie_motors.jpeg" width="60">
+<img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/CrazyFlie_motors.jpeg" width="100">
 
 <img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/Assembled%20Drone.jpeg" width="60">
 
