@@ -12,3 +12,9 @@ One important thing to be kept in mind is the differentiation between the CW and
 ### Testing
 Switch on the power and all the propellers will spin in a sequence, completing the power on self-test. The link has a good description to understand the LED lights.
 
+## Crazyflie Radio setting 
+
+The crazyflie radio PA needs to be connected with our laptop to be used with the CfClient GUI and ROS. 
+The issue faced here was after connecting while we tried to scan for crazyflie, we got an error of LIBSUB. 
+The below link helped us to configure our crazyflie radio to our computer(Ubuntu) and eliminate the error. 
+
