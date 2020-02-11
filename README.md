@@ -41,3 +41,27 @@ The only issue here is a lot of functions are not yet active cause the flowdeck 
 The link for ROS configuration is - https://github.com/whoenig/crazyflie_ros
 rosrun crazyflie_tools scan 
 This command helps to scan the uri of the drone which we will need to add in the crazyflie_server to initially connect the crazyflie.
+
+Feb 4th, 2020 - Feb 11th, 2020
+
+## Attaching the expansion decks
+
+Flowdeck and Multiranger were attached according to the given procedure. Keeping in mind the front of the crazyflie matches both the decks. Link - https://www.bitcraze.io/getting-started-with-expansion-decks/
+
+Once the decks are connected we check if everything is working correctly or not using a python script which makes the crazyflie go in the opposite direction of the detected obstacle. 
+Link - https://www.bitcraze.io/getting-started-with-stem-ranging-bundle/
+
+This ensures that both our expansion decks are working perfectly. 
+
+## Moving the crazyflie around
+
+To check various movements for the crazyflie, the drone is made to hover around in a circle in the followingg video. 
+Link - https://www.bitcraze.io/getting-started-with-stem-drone-bundle/
+
+## Mapping of the environment using single crazyflie 
+
+## Multiple crazyflie using single crazyradio
+### Connection
+To attach multiple crazyflie to single crazyradio, we had to change the uri of the crazyflies. We did so using the cfclinent and going to configure 2.0 and writing the new uri by changing the last two digits. The proper process has been explained in 5.1 of the book on the following link. 
+Link - http://act.usc.edu/publications/Hoenig_Springer_ROS2017.pdf
+### Running them using single script
