@@ -61,6 +61,10 @@ Link - https://www.bitcraze.io/getting-started-with-stem-drone-bundle/
 
 
 ## Mapping of the environment using single crazyflie 
+The initial image is of the enivironment 
+<img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/obstacle_boxes.jpeg" width="300">
+The next image is what we could map using the multiranger.
+<img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/point_cloud.png" width="300">
 
 ## Multiple crazyflie using single crazyradio
 ### Connection
