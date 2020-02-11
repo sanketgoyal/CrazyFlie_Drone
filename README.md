@@ -57,6 +57,8 @@ This ensures that both our expansion decks are working perfectly.
 
 To check various movements for the crazyflie, the drone is made to hover around in a circle in the followingg video. 
 Link - https://www.bitcraze.io/getting-started-with-stem-drone-bundle/
+<img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/one_drone_circle.gif" width="500">
+
 
 ## Mapping of the environment using single crazyflie 
 
