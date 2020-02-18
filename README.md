@@ -75,3 +75,8 @@ To attach multiple crazyflie to single crazyradio, we had to change the uri of t
 Link - http://act.usc.edu/publications/Hoenig_Springer_ROS2017.pdf
 ### Running them using single script
 <img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/two_drone_circle.gif" width="500">
+
+## Wall Follower
+A left wall follower using the Crazyflie was achieved. 
+
+
