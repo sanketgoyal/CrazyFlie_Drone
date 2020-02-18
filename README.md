@@ -51,6 +51,8 @@ Flowdeck and Multiranger were attached according to the given procedure. Keeping
 Once the decks are connected we check if everything is working correctly or not using a python script which makes the crazyflie go in the opposite direction of the detected obstacle. 
 Link - https://www.bitcraze.io/getting-started-with-stem-ranging-bundle/
 
+<img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/multiranger.gif" width="500">
+
 This ensures that both our expansion decks are working perfectly. 
 
 ## Moving the crazyflie around
@@ -79,4 +81,4 @@ Link - http://act.usc.edu/publications/Hoenig_Springer_ROS2017.pdf
 ## Wall Follower
 A left wall follower using the Crazyflie was achieved. 
 
-
+<img src="https://github.com/sanketgoyal/CrazyFlie_Drone/tree/master/Images:Videos" width="500">
