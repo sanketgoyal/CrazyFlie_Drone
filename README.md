@@ -82,7 +82,9 @@ Link - http://act.usc.edu/publications/Hoenig_Springer_ROS2017.pdf
 A left wall follower using the Crazyflie was achieved. 
 
 <img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/wall_follower.gif" width="500">
+
 ## Multi Robot videos
+
 <img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/multi_1.gif" width="500">
 
 <img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/multi_2.gif" width="500">
