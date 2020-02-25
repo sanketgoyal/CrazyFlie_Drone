@@ -36,12 +36,6 @@ Link: https://github.com/bitcraze/crazyflie-clients-python
 
 The only issue here is a lot of functions are not yet active cause the flowdeck is not yet connected to the drone. 
 
-## ROS Configuration 
-
-The link for ROS configuration is - https://github.com/whoenig/crazyflie_ros
-rosrun crazyflie_tools scan 
-This command helps to scan the uri of the drone which we will need to add in the crazyflie_server to initially connect the crazyflie.
-
 Feb 4th, 2020 - Feb 11th, 2020
 
 ## Attaching the expansion decks
@@ -93,3 +87,18 @@ A left wall follower using the Crazyflie was achieved.
 
 <img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/multi_4.gif" width="500">
 
+## ROS Configuration 
+
+The link for ROS configuration is - https://github.com/whoenig/crazyflie_ros
+rosrun crazyflie_tools scan 
+This command helps to scan the uri of the drone which we will need to add in the crazyflie_server to initially connect the crazyflie.
+
+### Ros Control  
+Now succesfully 
+-taking off
+-Landing
+-Sedning to any x,y,z location. 
+-Controlling all the drones seperately simultaniously i.e at 1 point all drones can go in different directions and can follow their  own differnt path. 
+
+### Rviz Configuration 
+Got the model in Rviz, need to look into how to get multiranger data in rviz to develope map. 
