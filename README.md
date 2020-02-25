@@ -96,9 +96,12 @@ This command helps to scan the uri of the drone which we will need to add in the
 ### Ros Control  
 Now succesfully 
 -taking off
+
 -Landing
--Sedning to any x,y,z location. 
--Controlling all the drones seperately simultaniously i.e at 1 point all drones can go in different directions and can follow their  own differnt path. 
+
+-Sending to any x,y,z location. 
+
+-Controlling all the drones seperately simultaniously i.e at 1 point all drones can go in different directions and can follow their own differnt path. 
 
 ### Rviz Configuration 
 Got the model in Rviz, need to look into how to get multiranger data in rviz to develope map. 
