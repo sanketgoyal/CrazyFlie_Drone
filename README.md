@@ -110,3 +110,5 @@ Now succesfully
 
 ### Rviz Configuration 
 Got the model in Rviz, need to look into how to get multiranger data in rviz to develope map. 
+
+<img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/crazyflie_rviz_model.png" width="300">
