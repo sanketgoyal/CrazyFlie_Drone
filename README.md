@@ -109,6 +109,6 @@ Now succesfully
 <img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/Seven_drones_ROS.jpeg" width="300">
 
 ### Rviz Configuration 
-Got the model in Rviz, need to look into how to get multiranger data in rviz to develope map. 
+Got the model in Rviz, need to look into how to get multiranger data in rviz to develop map. 
 
 <img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/crazyflie_rviz_model.png" width="300">
