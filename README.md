@@ -115,13 +115,21 @@ Got the model in Rviz, need to look into how to get multiranger data in rviz to 
 
 ### Crazyflie Mapping in RVIZ using ROS
 
-<img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/mapping1.png" width="300">
+<img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/mapping1.png" width="600">
 
 
-<img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/mapping2.png" width="300">
 
 
-<img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/mapping3.png" width="300">
+<img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/mapping2.png" width="600">
 
 
-<img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/mapping4.jpeg" width="300">
+
+
+<img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/mapping3.png" width="600">
+
+
+
+
+<img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/mapping4.jpeg" width="600">
+
+
