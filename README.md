@@ -125,11 +125,11 @@ Got the model in Rviz, need to look into how to get multiranger data in rviz to 
 
 
 
-<img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/mapping3.png" width="600">
+<img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/mapping3.png" width="800">
 
 
 
 
-<img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/mapping4.jpeg" width="600">
+<img src="https://github.com/sanketgoyal/CrazyFlie_Drone/blob/master/Images:Videos/mapping4.jpeg" width="400">
 
 
